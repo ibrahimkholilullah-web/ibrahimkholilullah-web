@@ -79,7 +79,4 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/ibrahimkholilullah-web/ibrahimkholilullah-web/output/snake.svg" alt="Snake animation" />
-###
