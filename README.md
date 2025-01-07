@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co/tpmKJJH/Black-And-Grey-Professional-Technology-Linked-In-Banner-1.png"  />
+  <img height="200" src="https://www.imghippo.com/i/xZa7515Eyc.png"  />
 </div>
 
 ###
