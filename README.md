@@ -1,7 +1,5 @@
 ![Black And Grey Professional Technology LinkedIn Banner (1)](https://github.com/user-attachments/assets/ee8137f5-fdc0-48e3-8a36-190544a12373)
-<br clear="both">
-
-<h1 align="left">Ibrahim Kholilullah</h1>
+<h1 align="left">Hi there 👋, my name is Ibrahim Kholilulla</h1>
 
 ###
 
@@ -38,11 +36,6 @@ Hi, I'm Ibrahim Khoilullah 👋<br>🔭 I’m currently studying for a diploma i
 ---
 [![](https://visitcount.itsvg.in/api?id=ibrahimkholilullah-web&icon=0&color=10)](https://visitcount.itsvg.in)
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ibrahimkholilullah-web/ibrahimkholilullah-web/output/snake.svg" alt="Snake animation" />
-
-###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
