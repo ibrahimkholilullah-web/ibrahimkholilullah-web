@@ -1,4 +1,20 @@
 ![Black And Grey Professional Technology LinkedIn Banner (1)](https://github.com/user-attachments/assets/ee8137f5-fdc0-48e3-8a36-190544a12373)
+<br clear="both">
+
+<h1 align="left">Ibrahim Kholilullah</h1>
+
+###
+
+<br clear="both">
+
+<h3 align="left">MERN Stack Developer</h3>
+
+###
+
+<p align="left">A web developer is a professional responsible for designing, coding, and maintaining websites and web applications. They handle both front-end development, which involves creating user interfaces and ensuring responsiveness, and back-end development, which includes server-side logic, database management, and API integration. Web developers work with languages like HTML, CSS, JavaScript, and frameworks such as React, or Vue for front-end, and Node.js for back-end. Their role is crucial in building user-friendly, efficient, and secure websites, ensuring optimal performance and seamless user experiences across various devices and platforms.</p>
+
+###
+
 # 💫 About Me:
 Hi, I'm Ibrahim Khoilullah 👋<br>🔭 I’m currently studying for a diploma in engineering with a focus on Computer Science and Technology (CST).<br>📚 I'm learning web development and related technologies to build a strong foundation for my future career.<br>⚡ In my free time, I enjoy exploring coding challenges, innovative web design, and staying updated with tech trends.
 
@@ -22,4 +38,11 @@ Hi, I'm Ibrahim Khoilullah 👋<br>🔭 I’m currently studying for a diploma i
 ---
 [![](https://visitcount.itsvg.in/api?id=ibrahimkholilullah-web&icon=0&color=10)](https://visitcount.itsvg.in)
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ibrahimkholilullah-web/ibrahimkholilullah-web/output/snake.svg" alt="Snake animation" />
+
+###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
