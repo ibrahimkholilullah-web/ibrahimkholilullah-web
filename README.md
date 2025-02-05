@@ -1,5 +1,5 @@
 ![Black And Grey Professional Technology LinkedIn Banner (1)](https://github.com/user-attachments/assets/ee8137f5-fdc0-48e3-8a36-190544a12373)
-<h1 align="left">Hi there 👋, my name is Ibrahim Kholilullah</h1>
+<h1 align="left">Hi there 👋, My Name is Ibrahim Kholilullah</h1>
 
 ###
 
