@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="[https://github.com/user-attachments/assets/ee8137f5-fdc0-48e3-8a36-190544a12373](https://github.com/ibrahimkholilullah-web/ibrahimkholilullah-web/blob/b9f7a0721e71268fb81d9a630e4fd15f54668918/Black%20and%20Purple%20Gradient%20Neon%20Futuristic%20Technology%20LinkedIn%20Banner.png)" alt="Banner" />
+  <img src="https://github.com/user-attachments/assets/ee8137f5-fdc0-48e3-8a36-190544a12373" alt="Banner" />
 </p>
 
 <!-- Profile Header -->
