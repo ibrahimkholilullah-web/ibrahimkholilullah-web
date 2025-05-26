@@ -77,12 +77,6 @@
 
 ---
 
-### 🔍 Visitor Count
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ibrahimkholilullah-web&icon=0&color=6" />
-</p>
-
 ---
 
 <!-- Custom footer -->
