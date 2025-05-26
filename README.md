@@ -77,8 +77,6 @@
 
 ---
 
----
-
 <!-- Custom footer -->
 <p align="center">✨ Proudly crafted with passion | 💡 Open to collaboration and learning ✨</p>
 
