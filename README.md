@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/KcgBth0R/Black-and-Purple-Gradient-Neon-Futuristic-Technology-Linked-In-Banner.png" alt="Banner" />
+  <img src="https://ibb.co.com/ycKC8DmP" alt="Banner" />
 </p>
 
 <!-- Profile Header -->
