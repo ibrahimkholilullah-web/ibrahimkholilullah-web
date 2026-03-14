@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://ibb.co.com/ycKC8DmP" alt="Banner" />
+ <img src="https://i.ibb.co.com/ghBNdSb/Orange-and-Purple-Modern-Web-Developer-Presentation.png" alt="Orange and Purple Modern Web Developer Presentation" border="0">
 </p>
 
 <!-- Profile Header -->
