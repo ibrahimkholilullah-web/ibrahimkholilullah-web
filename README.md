@@ -14,7 +14,7 @@
 - 🔭 I’m currently studying for a diploma in **Computer Science & Technology (CST)**
 - 🌱 I’m learning **MERN stack** and exploring **WordPress development**
 - 💼 Passionate about creating websites, web apps & eCommerce platforms
-- 📫 Reach me at: `ibrahim.kholilullah@gmail.com`
+- 📫 Reach me at: `ibrahimkholilt56@gmail.com`
 
 ---
 
